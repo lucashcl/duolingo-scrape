@@ -13,6 +13,6 @@
   },
   "dependencies": {
     "@std/csv": "npm:@jsr/std__csv",
-    "cheerio": "^1.0.0"
+    "puppeteer": "^24.2.1"
   }
 }
