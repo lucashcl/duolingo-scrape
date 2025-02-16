@@ -1,6 +1,6 @@
 # duolingo
 
-Place the div containing the words in the `input/data.html` file and run the script to get a csv with the words and their translations.
+Enter your Duolingo username and password in the terminal to get a csv with your learned words.
 
 To install dependencies:
 ```bash
