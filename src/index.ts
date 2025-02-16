@@ -1,5 +1,4 @@
 import * as cheerio from "cheerio"
-import fs from "node:fs"
 import * as csv from "@std/csv"
 
 function extract(html: string) {
